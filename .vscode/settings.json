@@ -1,0 +1,13 @@
+{
+    "javascript.suggest.completeFunctionCalls": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "javascript.implicitProjectConfig.checkJs": true,
+    "typescript.suggest.completeFunctionCalls": true,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+    "search.quickOpen.includeSymbols": true,
+    "emmet.showSuggestionsAsSnippets": true
+}
